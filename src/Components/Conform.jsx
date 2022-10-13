@@ -51,7 +51,7 @@ function Conform() {
                             </div> */}
 
                             {/* <!-- Submit button --> */}
-                            <button type="submit" className="btn btn-primary btn-sm btn-block mb-3" disabled={!formik.isValid}>Send Reset Link</button>
+                            <button type="submit" className="btn btn-primary btn-sm btn-block mb-3" disabled={!formik.isValid}>Click to Update password</button>
                         </form>
 
                         {/* <!-- Pills content --> */}
