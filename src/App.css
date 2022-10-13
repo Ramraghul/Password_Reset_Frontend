@@ -1,0 +1,14 @@
+body{
+    background-image: url("https://images2.alphacoders.com/464/464926.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow: hidden;
+}
+
+.check{
+    backdrop-filter: blur(4px);
+    background: rgba(225, 225, 225, 0.1);
+    color: white;
+    /* box-shadow: 8px 8px 8px blue; */
+    filter: drop-shadow(8px 8px 4px rgb(0, 0, 0));
+}
